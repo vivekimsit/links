@@ -11,3 +11,4 @@
 ### React
 
 * [Learning React](http://hysterical-amusement.surge.sh/)
+* [Managing States](http://redux.js.org/docs/recipes/reducers/BasicReducerStructure.html)
