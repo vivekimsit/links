@@ -12,3 +12,8 @@
 
 * [Learning React](http://hysterical-amusement.surge.sh/)
 * [Managing States](http://redux.js.org/docs/recipes/reducers/BasicReducerStructure.html)
+
+### Tools
+
+* [Video covers](http://coverr.co/)
+* [Background images](http://lorempixel.com/1000/600/abstract/)
