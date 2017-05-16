@@ -21,3 +21,7 @@
 ### Jobs
 
 * [Whiteboarding](http://they.whiteboarded.me/)
+
+### Learning Node
+
+* [Nodeschool](https://nodeschool.io/#javascripting)
