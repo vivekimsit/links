@@ -25,3 +25,7 @@
 ### Learning Node
 
 * [Nodeschool](https://nodeschool.io/#javascripting)
+
+### Public speaking
+
+* [Public speaking](http://speaking.io/)
