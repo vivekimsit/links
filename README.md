@@ -34,6 +34,7 @@
 ### Jobs
 
 * [Whiteboarding](http://they.whiteboarded.me/)
+* [Resume](https://resumeworded.com/)
 
 ### Learning Node
 
