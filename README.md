@@ -1,12 +1,14 @@
-## Important links worth looking for
+## Important links
 
 ### Keycode
 
 * [Keycode](http://keycode.info/)
 
 ### CSS
+
 * [CSS triggers](https://csstriggers.com/)
 * [Autoprefixer](http://autoprefixer.github.io/)
+* [CSS cursors](http://csscursor.info/)
 
 ### React
 
@@ -17,6 +19,7 @@
 
 * [Video covers](http://coverr.co/)
 * [Background images](http://lorempixel.com/1000/600/abstract/)
+* [HTTP status codes](https://http.cat/)
 
 ### Jobs
 
