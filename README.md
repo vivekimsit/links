@@ -43,3 +43,9 @@
 ### Public speaking
 
 * [Public speaking](http://speaking.io/)
+
+### Misc
+
+* [Flights](https://www.google.co.uk/flights/)
+
+* [Search Seats](https://www.seatguru.com/)
