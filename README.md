@@ -30,6 +30,7 @@
 * [Background images](http://lorempixel.com/1000/600/abstract/)
 * [HTTP status codes](https://http.cat/)
 * [JSON data](https://jsonplaceholder.typicode.com/)
+* [Random User](https://api.randomuser.me/)
 
 ### Jobs
 
